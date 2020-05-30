@@ -1,5 +1,8 @@
 package com.springboot.springbootmybatis.dao;
 
+import com.springboot.springbootmybatis.domain.User;
+import org.apache.ibatis.annotations.Mapper;
+
 /**
  * @author houwenzhen
  * @version 1.0
@@ -7,6 +10,10 @@ package com.springboot.springbootmybatis.dao;
  * @descriptio
  */
 
-
+@Mapper
 public interface UserMapper {
+    User fineAll();
+    int updateUser(User user);
+    int delUser(Integer id);
+    int InsertUser(User user);
 }

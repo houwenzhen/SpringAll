@@ -17,7 +17,7 @@ public class Index {
     /**
      * @Author : houwenzhen
      * @Date : 2020/5/24 10:31
-     * @Description : TODO thymeleof 使用
+     * @Description : TODO thymeleaf 使用
      * @params:
      * @Return :
     */
