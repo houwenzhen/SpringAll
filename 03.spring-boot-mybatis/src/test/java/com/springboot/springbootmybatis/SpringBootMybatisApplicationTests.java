@@ -20,28 +20,29 @@ class SpringBootMybatisApplicationTests {
         User user = userMapper.fineAll();
         System.out.println(user);
     }
+
     @Test
     void UserMapper_update() {
         User user = new User();
         user.setId(1);
-        user.setDate("2020.05.24");
+        user.setDate("2020.06.02");
         user.setName("admin");
-        user.setUsername("llll");
-        user.setPassword("123456");
+        user.setUsername("你爸比");
+        user.setPassword("233333");
         System.out.println(userMapper.updateUser(user));
     }
     @Test
     void UserMapper_delete() {
-        System.out.println(userMapper.delUser(2));
+        System.out.println(userMapper.delUser(1));
     }
 
     @Test
     void UserMapper_insert() {
         User user = new User();
-        user.setDate("2020.05.24");
-        user.setName("aaa");
-        user.setUsername("llll");
-        user.setPassword("123456");
+        user.setDate("2020.06.02");
+        user.setName("admin");
+        user.setUsername("大头");
+        user.setPassword("@hwz_2020");
         int i = userMapper.InsertUser(user);
         System.out.println(i);
     }
