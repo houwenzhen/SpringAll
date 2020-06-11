@@ -6,6 +6,8 @@ import org.junit.jupiter.api.Test;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.boot.test.context.SpringBootTest;
 
+import java.util.List;
+
 @SpringBootTest
 class SpringBootMybatisApplicationTests {
     @Autowired
@@ -17,8 +19,7 @@ class SpringBootMybatisApplicationTests {
 
     @Test
     void UserMapper_fillAll() {
-        User user = userMapper.fineAll();
-        System.out.println(user);
+        List<User> users = userMapper.fineAll();
     }
 
     @Test
