@@ -9,3 +9,5 @@
 #### 03.[spring-boot-mybatis](https://github.com/houwenzhen/SpringAll/tree/master/03.spring-boot-mybatis) 整合MyBatis
 
 #### 04.[spring-boot-mybatis-plus](https://github.com/liangqiding/SpringAll/tree/master/04.spring-boot-mybatis-plus) 整合mybatis-plus
+
+#### 05.[spring-boot-login](https://github.com/houwenzhen/SpringAll/tree/master/05.spring-boot-login) 登录注册
