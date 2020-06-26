@@ -1,0 +1,54 @@
+2020-06-25 10:58:34.754 [main] INFO  springboot.loger.LogerApplication - Starting LogerApplication on DESKTOP-BV254N8 with PID 16256 (G:\Git\SpringAll\06.spring-boot-log\loger_filer\target\classes started by Ho in G:\Git\SpringAll\06.spring-boot-log\loger_filer)
+2020-06-25 10:58:34.758 [main] INFO  springboot.loger.LogerApplication - No active profile set, falling back to default profiles: default
+2020-06-25 10:58:35.715 [main] INFO  springboot.loger.LogerApplication - Started LogerApplication in 1.929 seconds (JVM running for 7.046)
+2020-06-25 11:14:08.106 [main] INFO  springboot.loger.LogerApplication - Starting LogerApplication on DESKTOP-BV254N8 with PID 3024 (G:\Git\SpringAll\06.spring-boot-log\loger_filer\target\classes started by Ho in G:\Git\SpringAll\06.spring-boot-log\loger_filer)
+2020-06-25 11:14:08.114 [main] INFO  springboot.loger.LogerApplication - No active profile set, falling back to default profiles: default
+2020-06-25 11:14:10.084 [main] INFO  org.springframework.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 9000 (http)
+2020-06-25 11:14:10.109 [main] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2020-06-25 11:14:10.110 [main] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.36]
+2020-06-25 11:14:10.271 [main] INFO  org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2020-06-25 11:14:10.273 [main] INFO  org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 2009 ms
+2020-06-25 11:14:10.628 [main] INFO  org.springframework.scheduling.concurrent.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+2020-06-25 11:14:10.906 [main] INFO  org.springframework.boot.web.embedded.tomcat.TomcatWebServer - Tomcat started on port(s): 9000 (http) with context path ''
+2020-06-25 11:14:10.923 [main] INFO  springboot.loger.LogerApplication - Started LogerApplication in 3.802 seconds (JVM running for 7.141)
+2020-06-25 11:14:39.685 [main] INFO  springboot.loger.LogerApplication - Starting LogerApplication on DESKTOP-BV254N8 with PID 4352 (G:\Git\SpringAll\06.spring-boot-log\loger_filer\target\classes started by Ho in G:\Git\SpringAll\06.spring-boot-log\loger_filer)
+2020-06-25 11:14:39.693 [main] INFO  springboot.loger.LogerApplication - No active profile set, falling back to default profiles: default
+2020-06-25 11:14:41.882 [main] INFO  org.springframework.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 9000 (http)
+2020-06-25 11:14:41.900 [main] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2020-06-25 11:14:41.902 [main] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.36]
+2020-06-25 11:14:42.068 [main] INFO  org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2020-06-25 11:14:42.069 [main] INFO  org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 2185 ms
+2020-06-25 11:14:42.402 [main] INFO  org.springframework.scheduling.concurrent.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+2020-06-25 11:14:42.711 [main] INFO  org.springframework.boot.web.embedded.tomcat.TomcatWebServer - Tomcat started on port(s): 9000 (http) with context path ''
+2020-06-25 11:14:42.732 [main] INFO  springboot.loger.LogerApplication - Started LogerApplication in 3.975 seconds (JVM running for 7.33)
+2020-06-25 11:15:43.159 [http-nio-9000-exec-1] INFO  org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2020-06-25 11:15:43.161 [http-nio-9000-exec-1] INFO  org.springframework.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+2020-06-25 11:15:43.171 [http-nio-9000-exec-1] INFO  org.springframework.web.servlet.DispatcherServlet - Completed initialization in 9 ms
+2020-06-25 11:17:45.092 [main] INFO  springboot.loger.LogerApplication - Starting LogerApplication on DESKTOP-BV254N8 with PID 10424 (G:\Git\SpringAll\06.spring-boot-log\loger_filer\target\classes started by Ho in G:\Git\SpringAll\06.spring-boot-log\loger_filer)
+2020-06-25 11:17:45.100 [main] INFO  springboot.loger.LogerApplication - No active profile set, falling back to default profiles: default
+2020-06-25 11:17:46.907 [main] INFO  org.springframework.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 9000 (http)
+2020-06-25 11:17:46.924 [main] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2020-06-25 11:17:46.926 [main] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.36]
+2020-06-25 11:17:47.112 [main] INFO  org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2020-06-25 11:17:47.113 [main] INFO  org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 1850 ms
+2020-06-25 11:17:47.379 [main] INFO  org.springframework.scheduling.concurrent.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+2020-06-25 11:17:47.474 [main] INFO  org.springframework.scheduling.concurrent.ThreadPoolTaskExecutor - Shutting down ExecutorService 'applicationTaskExecutor'
+2020-06-25 11:17:47.479 [main] INFO  org.apache.catalina.core.StandardService - Stopping service [Tomcat]
+2020-06-25 11:17:47.561 [main] INFO  org.springframework.boot.autoconfigure.logging.ConditionEvaluationReportLoggingListener - 
+
+Error starting ApplicationContext. To display the conditions report re-run your application with 'debug' enabled.
+2020-06-25 11:18:38.595 [main] INFO  springboot.loger.LogerApplication - Starting LogerApplication on DESKTOP-BV254N8 with PID 3236 (G:\Git\SpringAll\06.spring-boot-log\loger_filer\target\classes started by Ho in G:\Git\SpringAll\06.spring-boot-log\loger_filer)
+2020-06-25 11:18:38.602 [main] INFO  springboot.loger.LogerApplication - No active profile set, falling back to default profiles: default
+2020-06-25 11:18:40.502 [main] INFO  org.springframework.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 9000 (http)
+2020-06-25 11:18:40.518 [main] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2020-06-25 11:18:40.519 [main] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.36]
+2020-06-25 11:18:40.683 [main] INFO  org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2020-06-25 11:18:40.684 [main] INFO  org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 1923 ms
+2020-06-25 11:18:40.949 [main] INFO  org.springframework.scheduling.concurrent.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+2020-06-25 11:18:41.178 [main] INFO  org.springframework.boot.web.embedded.tomcat.TomcatWebServer - Tomcat started on port(s): 9000 (http) with context path ''
+2020-06-25 11:18:41.192 [main] INFO  springboot.loger.LogerApplication - Started LogerApplication in 3.539 seconds (JVM running for 6.41)
+2020-06-25 11:18:45.364 [http-nio-9000-exec-1] INFO  org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2020-06-25 11:18:45.365 [http-nio-9000-exec-1] INFO  org.springframework.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+2020-06-25 11:18:45.374 [http-nio-9000-exec-1] INFO  org.springframework.web.servlet.DispatcherServlet - Completed initialization in 8 ms
+2020-06-25 11:18:45.407 [http-nio-9000-exec-1] INFO  springboot.loger.controller.Index - info 日记
+2020-06-25 11:18:54.645 [http-nio-9000-exec-2] INFO  springboot.loger.controller.Index - info 日记
